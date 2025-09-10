@@ -1,4 +1,4 @@
-# Cat server sonolus
+# Cat server sonolus!
 
 このリポジトリは、**Sonolus** の background 機能を使って猫画像を表示するチュートリアルサーバーです。  
 TypeScriptで書かれており、@sonolus/express を利用しています。
